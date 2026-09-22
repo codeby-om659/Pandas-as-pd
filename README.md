@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="./pandas.png" alt="Pandas Banner" width="200%">
+  <img src="./Pandas.png" alt="Pandas Banner" width="200%">
 </p>
 
 <h1 align="center">Pandas 🚨</h1>
