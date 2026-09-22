@@ -3,6 +3,13 @@
  Analyzing and cleaning dataset using **Pandas**
 
 ---
+<p align="center">
+  <img src="./pandas.png" alt="Pandas Banner" width="200%">
+</p>
+
+<h1 align="center">Pandas 🚨</h1>
+
+<p align="center">
 
 ## Features
 - **Data Cleaning & Preprocessing:** Handling missing value, duplicate, and data type conversion.
